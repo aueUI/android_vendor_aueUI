@@ -1,0 +1,7 @@
+bootstrap_go_package {
+    name: "soong-aueui",
+    pkgPath: "aueui/soong/android",
+    srcs: [
+        "android/variable.go",
+    ],
+}
